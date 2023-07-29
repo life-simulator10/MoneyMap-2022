@@ -37,6 +37,12 @@ Install dependencies and on client side
 
 ![Moneymap-ss](https://github.com/life-simulator10/MoneyMap-2022/assets/136328749/089726a2-d006-4863-a80e-a5842b43f994)
 
+![moneymap-article-ss](https://github.com/life-simulator10/MoneyMap-2022/assets/136328749/80cf7403-f1b1-4f9b-b6a5-3b07d1e32b5f)
+
+![Moneymap-ss](https://github.com/life-simulator10/MoneyMap-2022/assets/136328749/e421b6d8-e79d-43ee-ab47-9a73a002c981)
+
+
+![dashboard-ss](https://github.com/life-simulator10/MoneyMap-2022/assets/136328749/75afcbe2-95e9-479d-a645-cf23c612dfdb)
 
 
 
